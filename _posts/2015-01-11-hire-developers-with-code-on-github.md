@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hire Developers with code on GitHub
-date: 2015-01-11
+date: 2015-11-01
 ---
 We usually have many developers applying for a small number of jobs.
 It is difficult to distinguish a good developer from others,
