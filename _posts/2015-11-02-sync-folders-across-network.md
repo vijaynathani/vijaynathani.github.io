@@ -4,10 +4,9 @@ title: Sync files and folders across network
 date: 2015-11-02
 ---
 I have lots of files and folders on my PC. When I travel, I want to copy them on my laptop. For this I have tried following options, but they were too time-consuming.
-
-* Copy everything in external drive and then copy it back to my laptop.
-* Copy everything over the network to destination
-* Zip everything in one file. Then transfer this one zip file to laptop and unzip.
+- Copy everything in external drive and then copy it back to my laptop.
+- Copy everything over the network to destination
+- Zip everything in one file. Then transfer this one zip file to laptop and unzip.
 
 Ultimately, I decided to write my own utility for syncing files and folders between my PC and laptop.
 The source code in C# is at [GitHub](https://github.com/vijaynathani/SyncFolders).
