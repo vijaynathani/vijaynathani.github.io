@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Keep Windows Lumia Mobile phone's WiFi Internet sharing on
-date: 2015-11-07
+date: 2015-11-09
 ---
 I have a old Windows phone (Lumia 520). I occasionally use it to for Internet access via WiFi Internet sharing. I found that a strange feature / bug in Windows Lumia phones. If I don't use the Internet for a few minutes, the WiFi Internet sharing automatically switches off. This problem does not exist in my "Android One" phone.
 
