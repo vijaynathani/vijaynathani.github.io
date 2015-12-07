@@ -5,7 +5,7 @@ date: 2015-11-07
 ---
 I prefer Android over iPhone because Android gives me more hardware choices. Also Android has more customizations available.
 
-I prefer Android over Windows phone primarily because there are more apps on Android. Also these apps are frequently updated. Also, I have had poor experience with a Windows Lumia phone i.e.
+I prefer Android over Windows phone primarily because there are more apps on Android. These apps are more frequently updated. Also, I have had poor experience with a Windows Lumia phone i.e.
 
 * No USB tethering
 * WiFi tethering automatically switches off after few minutes of not using it. It has to be switched on, again and again.
