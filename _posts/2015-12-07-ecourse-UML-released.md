@@ -7,6 +7,7 @@ date: 2015-12-07
 
 This course consists of following sections
 * Introduction to UML - 10 minute video
+
 * Class diagram notation - 49 minute video
 * Object diagram notation - 6 minute video
 * Use Cases - 25 minute video
