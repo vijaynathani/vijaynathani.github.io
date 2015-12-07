@@ -3,7 +3,7 @@ layout: post
 title: Online E-learning course on UML released
 date: 2015-12-07
 ---
-[Care Trainings](http://caretrainings.co.in/) is pleased to release its first [e-learning on-line course on UML](http://caretrainings.co.in/ecourses.html).
+[Care Trainings](http://caretrainings.co.in/) is pleased to release its first e-learning on-line course on UML.
 
 This course consists of following sections
 
