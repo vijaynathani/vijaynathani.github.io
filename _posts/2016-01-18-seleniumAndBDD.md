@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Online E-learning course on UML released
+title: BDD with Selenium by Testers
 date: 2016-01-18
 ---
 I conducted a training on BDD and Selenium in Chennai. The participants wanted to used Cucumber to describe their tests and they were writing the tests using Selenium in Java.
