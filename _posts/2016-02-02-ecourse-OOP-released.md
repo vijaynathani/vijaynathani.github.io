@@ -27,7 +27,7 @@ This course contents are mentioned below:
 * Single Responsibility Principle
 * Interface segregation principle
 * Open Closed Principle
-* Dependency Principle
+* Dependency Inversion Principle
 * SOLID acronym for principles
 * Advantages of Functional programming. Using Pure functions
 * Cyclomatic complexity
