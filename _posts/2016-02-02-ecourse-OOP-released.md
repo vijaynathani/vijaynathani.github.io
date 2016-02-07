@@ -39,8 +39,11 @@ This course contents are mentioned below:
 * Design Smells
 * Summary
 
-The pre-requisite for this course is that person should know the basics of at least one OO language like Java, C# or C++.
+The pre-requisite for this course is that person should know
 
-The initial few sessions of this course can be watched or downloaded for free at [http://caretrainings.co.in/ecourses.html](http://caretrainings.co.in/ecourses.html).
+* Basics of at least one OO language like Java, C# or C++.
+* Basic UML class diagram notations.
+
+The total duration all video sessions is about 5 hours. The initial few sessions of this course can be watched or downloaded for free at [http://caretrainings.co.in/ecourses.html](http://caretrainings.co.in/ecourses.html).
 
 
